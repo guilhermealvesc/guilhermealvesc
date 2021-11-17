@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Alves Carvalho</h1>
 <h3 align="center">A curious Computer Science Student from Uberlândia - Brazil</h3>
 
-- 🔭 I’m currently working at [ASCII Junior Company](https://github.com/asciiej)
+- 🔭 I’m currently working at [NDM advogados](https://ndmadvogados.com.br/)
 
 - 🌱 I’m currently learning **Tree Algorithms/Structures && React/React Native**
 
