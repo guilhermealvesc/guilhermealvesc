@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guilherme Alves Carvalho</h1>
 <h3 align="center">A curious Computer Science Student from Uberlândia - Brazil</h3>
 
-- 🌱 I’m currently learning **Tree Algorithms/Structures && React/React Native**
+- 🌱 I’m currently learning **Deep Learning & Neural Networks & AI** for my undergraduate thesis
 
-- 👯 I’m studying competitive programming at [Uri Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/418708)
+- 👯 I’m studying the topics mentioned above in [this Udemy course](https://www.udemy.com/share/101WmQ3@eTxoZXE11uS7bRfOfnjYkcj0x0-aQijzf558rNJNf-9r5g4jc54-bZ7Yz3g5EylPCA==/)
 
-- 💬 Ask me about **Data Structures, C/C++ && Web Development(Jquery, Node.js, React, etc...)**
+- 💬 Ask me about **Deep Learning, Computer Science, C/C++, Web Development(Jquery, Node.js, React, etc...)**
 
 - 📫 How to reach me -> **guilherme.092011@ufu.br**
 
