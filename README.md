@@ -9,7 +9,7 @@
 
 - 📫 How to reach me -> **guilherme.092011@ufu.br**
 
-- 📄 Know about my experiences -> [Resume]([https://drive.google.com/file/d/1aeyqbo_Rz3COWwiR6A0xeEUD2pT0vznC/view?usp=sharing](https://drive.google.com/file/d/1q1ePgLz4kGgWX9Szo-1OXLzjUgfpiPKj/view?usp=sharing))
+- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1q1ePgLz4kGgWX9Szo-1OXLzjUgfpiPKj/view?usp=sharing)
 
 - ⚡ Fun fact -> **I get confused often...**
 
